@@ -73,7 +73,7 @@ export default function App() {
                 <Globe className="h-5 w-5 text-white" />
               </div>
               <span className="text-2xl font-bold tracking-tighter text-neutral-900 uppercase">
-                Mundo<span className="font-light">Viagem</span>
+                Portal<span className="font-light">Turismo</span>
               </span>
             </div>
 
@@ -214,7 +214,7 @@ export default function App() {
       <footer className="bg-white border-t border-neutral-200 py-16 mt-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col items-center">
           <span className="text-2xl font-bold tracking-tighter text-neutral-900 uppercase mb-6">
-            Mundo<span className="font-light">Viagem</span>
+            Portal<span className="font-light">Turismo</span>
           </span>
           <p className="text-neutral-400 text-sm mb-8 text-center max-w-md leading-relaxed">
             A tua fonte direta para inspiração de viagens. Destinos escondidos, guias locais e turismo sustentável.
